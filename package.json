@@ -19,5 +19,8 @@
     "BACKEND"
   ],
   "author": "Valentina Castillo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
